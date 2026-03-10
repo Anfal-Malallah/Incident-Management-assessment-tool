@@ -17,4 +17,4 @@ Simulation model
 
 ## Author
 Anfal Malallah
-Master's Program in Computing Information Systems
+
